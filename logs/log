@@ -1,0 +1,917 @@
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+INFO _internal.py:225  * Running on http://127.0.0.1:80/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:80/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 10:54:03] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 10:54:03] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 10:54:20] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 10:54:20] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 10:54:20] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 10:54:20] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 10:54:20] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 10:54:20] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 14:02:06] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 14:02:06] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 14:02:06] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 14:02:06] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 14:02:06] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 14:02:06] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\index\\models.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\test.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\test.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\test.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\test.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\test.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\test.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\test.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\test.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\test.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+ERROR __init__.py:98 Error: Directory migrations already exists and is not empty
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO log.py:128 SELECT DATABASE()
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 SELECT @@sql_mode
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 SELECT @@lower_case_table_names
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 BEGIN (implicit)
+INFO log.py:128 SELECT student.id AS student_id, student.name AS student_name, student.sex AS student_sex, student.class_number AS student_class_number, student.age AS student_age, student.description AS student_description 
+FROM student
+INFO log.py:128 [generated in 0.00095s] {}
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:39:04] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:39:04] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:39:04] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:39:05] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:39:05] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO log.py:128 SELECT DATABASE()
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 SELECT @@sql_mode
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 SELECT @@lower_case_table_names
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 BEGIN (implicit)
+INFO log.py:128 SELECT student.id AS student_id, student.name AS student_name, student.sex AS student_sex, student.class_number AS student_class_number, student.age AS student_age, student.description AS student_description 
+FROM student
+INFO log.py:128 [generated in 0.00049s] {}
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO log.py:128 SELECT DATABASE()
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 SELECT @@sql_mode
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 SELECT @@lower_case_table_names
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 BEGIN (implicit)
+INFO log.py:128 SELECT student.id AS student_id, student.name AS student_name, student.sex AS student_sex, student.class_number AS student_class_number, student.age AS student_age, student.description AS student_description 
+FROM student
+INFO log.py:128 [generated in 0.00032s] {}
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:41:58] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO log.py:128 ROLLBACK
+INFO log.py:128 BEGIN (implicit)
+INFO log.py:128 SELECT student.id AS student_id, student.name AS student_name, student.sex AS student_sex, student.class_number AS student_class_number, student.age AS student_age, student.description AS student_description 
+FROM student
+INFO log.py:128 [cached since 3.35s ago] {}
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:42:01] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:42:01] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:42:01] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:42:01] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:42:01] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:42:01] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO log.py:128 SELECT DATABASE()
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 SELECT @@sql_mode
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 SELECT @@lower_case_table_names
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 BEGIN (implicit)
+INFO log.py:128 SELECT student.id AS student_id, student.name AS student_name, student.sex AS student_sex, student.class_number AS student_class_number, student.age AS student_age, student.description AS student_description 
+FROM student
+INFO log.py:128 [generated in 0.00032s] {}
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:42:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:42:26] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:42:26] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:42:26] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:42:26] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:42:26] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\index\\views.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO log.py:128 SELECT DATABASE()
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 SELECT @@sql_mode
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 SELECT @@lower_case_table_names
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 BEGIN (implicit)
+INFO log.py:128 SELECT student.id AS student_id, student.name AS student_name, student.sex AS student_sex, student.class_number AS student_class_number, student.age AS student_age, student.description AS student_description 
+FROM student
+INFO log.py:128 [generated in 0.00031s] {}
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:43:11] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:43:11] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:43:11] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:43:11] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:43:11] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:43:11] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO log.py:128 ROLLBACK
+INFO log.py:128 BEGIN (implicit)
+INFO log.py:128 SELECT student.id AS student_id, student.name AS student_name, student.sex AS student_sex, student.class_number AS student_class_number, student.age AS student_age, student.description AS student_description 
+FROM student
+INFO log.py:128 [cached since 232.9s ago] {}
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:47:04] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO log.py:128 ROLLBACK
+INFO log.py:128 BEGIN (implicit)
+INFO log.py:128 SELECT student.id AS student_id, student.name AS student_name, student.sex AS student_sex, student.class_number AS student_class_number, student.age AS student_age, student.description AS student_description 
+FROM student
+INFO log.py:128 [cached since 260.4s ago] {}
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:47:37] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO log.py:128 SELECT DATABASE()
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 SELECT @@sql_mode
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 SELECT @@lower_case_table_names
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 BEGIN (implicit)
+INFO log.py:128 SELECT student.id AS student_id, student.name AS student_name, student.sex AS student_sex, student.class_number AS student_class_number, student.age AS student_age, student.description AS student_description 
+FROM student
+INFO log.py:128 [generated in 0.00036s] {}
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 15:52:13] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\index\\views.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\settings\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 16:29:24] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO log.py:128 SELECT DATABASE()
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 SELECT @@sql_mode
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 SELECT @@lower_case_table_names
+INFO log.py:128 [raw sql] {}
+INFO log.py:128 BEGIN (implicit)
+INFO log.py:128 SELECT student.id AS student_id, student.name AS student_name, student.sex AS student_sex, student.class_number AS student_class_number, student.age AS student_age, student.description AS student_description 
+FROM student
+INFO log.py:128 [generated in 0.00032s] {}
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 16:29:52] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO log.py:128 ROLLBACK
+INFO log.py:128 BEGIN (implicit)
+INFO log.py:128 SELECT student.id AS student_id, student.name AS student_name, student.sex AS student_sex, student.class_number AS student_class_number, student.age AS student_age, student.description AS student_description 
+FROM student
+INFO log.py:128 [cached since 22.57s ago] {}
+INFO log.py:128 ROLLBACK
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 16:30:15] "GET / HTTP/1.1" 200 -
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\index\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\__init__.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\index\\views.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\index\\views.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225 127.0.0.1 - - [15/Jun/2022 17:03:39] "GET / HTTP/1.1" 200 -
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 136-808-938
+WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO _internal.py:225  * Running on http://192.168.0.121:8080/ (Press CTRL+C to quit)
+INFO _internal.py:225  * Detected change in 'C:\\Users\\yang\\Desktop\\Projects\\TessData\\application\\apps\\utils.py', reloading
