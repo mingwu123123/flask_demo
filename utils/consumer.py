@@ -1,14 +1,13 @@
 from kafka import KafkaProducer, KafkaConsumer
-from kafka.errors import kafka_errors
-import traceback
-import json
 
-host = '1.15.187.167'
+host = 'tengxunyun'
 port = 9092
-topic = 'tess'
+data_types = ['car', 'singal']
 
+
+# TODO 添加进程进行消费
 consumer = KafkaConsumer(
-    topic,
+    data_types[0],
     bootstrap_servers=[f'{host}:{port}'],
     auto_offset_reset='earliest', # 从头消费
     group_id='test82e4'

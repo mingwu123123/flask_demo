@@ -1,7 +1,7 @@
 import time
 from multiprocessing import Pool
 import redis
-
+from producer import Producer
 
 REDIS_HOST = 'tengxunyun'
 REDIS_PORT = 6379
@@ -9,8 +9,14 @@ pool = redis.ConnectionPool(host=REDIS_HOST, port=REDIS_PORT, decode_responses=T
 redis_client = redis.Redis(connection_pool=pool)
 
 
+KAFKA_HOST = 'tengxunyun'
+KAFKA_PORT = 9092
+# topic = 'tess'
+
+
 data_types = ['car', 'singal']
 def worker(data_type):
+    producer = Producer(KAFKA_HOST, KAFKA_PORT, data_type) # 不同的
     calc_key = int(time.time()) - 100  # 向前计算100s
     while True:
         timestamp = int(time.time())
@@ -18,8 +24,12 @@ def worker(data_type):
             keys = sorted(redis_client.keys(f'{data_type}-{calc_key}*'))
             for key in keys:
                 value = redis_client.getdel(key)
+                print(data_type, value)
+                producer.send(data_type, value) # 同一个key=data_type 会被放置在同一分区，保证顺序
+                # TODO 已排序，通过生产者发送至kafka，采用不同的 topic
             calc_key += 1  #计算下一秒的数据
         else:
+            time.sleep(1)
             pass # 继续循环
 
 
